@@ -1,1 +1,1 @@
-# tnals_reposiatry
+# 카카오 API 알림 메세지 기능 구현
